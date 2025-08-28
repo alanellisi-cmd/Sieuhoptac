@@ -1,5 +1,4 @@
 # Sieuhoptac
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
@@ -171,8 +170,5 @@
       Nhấn vào chức năng hoặc kéo để chuyển đổi<br>
       © 2025  siudepchai ios| tiktok: siu đẹp chai và jollibee ngõ 2
 
-    </div>
-  </div>
-</scrip>
 </body>
 </html>
